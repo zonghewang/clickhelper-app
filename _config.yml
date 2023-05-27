@@ -5,7 +5,7 @@ show_logs: true
 
 
 log:
-  url: /log-page
+  url: /clickhelper-app/log-page
 
 download:
   url: http://ota.micform.com/helper/1/micform-helper-v1.0-230521092347-release.apk

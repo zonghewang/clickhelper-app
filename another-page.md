@@ -3,7 +3,7 @@ layout: default
 title: Another page
 description: This is just another page
 index: true
-index.url: /
+index.url: /clickhelper-app/
 ---
 
 ## Welcome to another page
