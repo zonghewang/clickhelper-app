@@ -3,7 +3,7 @@ layout: default
 title: 更新日志
 index:
   enable: true
-  url: /index
+  url: /clickhelper-app/index
 ---
 
 # 1.0.2
