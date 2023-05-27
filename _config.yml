@@ -1,0 +1,14 @@
+title: ClickHelper
+description: 一个可以辅助操作的小工具.
+show_downloads: true
+show_logs: true
+
+
+log:
+  url: /log-page
+
+download:
+  url: http://ota.micform.com/helper/1/micform-helper-v1.0-230521092347-release.apk
+
+google_analytics:
+theme: jekyll-theme-cayman
