@@ -8,7 +8,7 @@ index:
 
 # 1.0.5
 
-&nbsp;&nbsp;修复可能会产生点残留的问题
+&nbsp;&nbsp;&nbsp;&nbsp;修复可能会产生点残留的问题
 
 # 1.0.4
 
